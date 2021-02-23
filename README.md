@@ -55,7 +55,7 @@
 ## :file_folder: Como executar a aplicação
 
 > - Clonar o projeto e abrir ele no editor de texto;
-> - Ir na classe que deseja executar - neste projeto: TesteFuncionario, TesteGerente, TesteReferencias, TesteSistema;
+> - Ir na classe que deseja executar - neste projeto: TesteContas e TesteTributaveis;
 > - Clicar no play que esta em um circulo verde localizado no menu superior;
 > - Caso preferir, também pode executar clicando na tela com o botão direito, escolher a opção 'Run as' e depois Java Application.
 
