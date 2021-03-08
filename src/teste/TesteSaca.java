@@ -1,3 +1,8 @@
+package teste;
+
+import modelo.Conta;
+import modelo.ContaCorrente;
+import modelo.SaldoInsuficienteException;
 
 public class TesteSaca {
 
